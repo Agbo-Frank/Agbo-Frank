@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm a software engineer from Nigeria, specialized in web development, as you guess I claim myself as a full-stack developer.
+
+🔭 Currently working on start-ups
+I'm comfortable working with:
+NodeJS - back-end logic (Express)
+ReactJS - SPA, PWA web apps
+DBMS - relational databases (MySQL, MsSQL, SQLite)
+Cloud computing - Digital Ocean
+Contacts:
+E-mail: agbofrank531@gmail.com
+Phone: 09061588791
 <!--
 **Agbo-Frank/Agbo-Frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
