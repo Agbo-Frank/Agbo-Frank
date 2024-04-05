@@ -8,7 +8,8 @@ I'm comfortable working with:
 - NodeJS - back-end logic (Express). 
 - ReactJS - SPA, PWA web apps. 
 - DBMS - relational databases (MySQL, MsSQL, SQLite). 
-- Cloud computing - Digital Ocean. 
+- Cloud computing - Digital Ocean.
+- Web3. 
 
 Contacts:  
 - E-mail: agbofrank531@gmail.com. 
